@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2015\Projects\ColasFIFO\ColasFIFO\bin\Debug\ColasFIFO.exe.config
+C:\Users\asus\Documents\Visual Studio 2015\Projects\ColasFIFO\ColasFIFO\bin\Debug\ColasFIFO.exe
+C:\Users\asus\Documents\Visual Studio 2015\Projects\ColasFIFO\ColasFIFO\bin\Debug\ColasFIFO.pdb
+C:\Users\asus\Documents\Visual Studio 2015\Projects\ColasFIFO\ColasFIFO\obj\Debug\ColasFIFO.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\Visual Studio 2015\Projects\ColasFIFO\ColasFIFO\obj\Debug\ColasFIFO.Form1.resources
+C:\Users\asus\Documents\Visual Studio 2015\Projects\ColasFIFO\ColasFIFO\obj\Debug\ColasFIFO.Properties.Resources.resources
+C:\Users\asus\Documents\Visual Studio 2015\Projects\ColasFIFO\ColasFIFO\obj\Debug\ColasFIFO.csproj.GenerateResource.Cache
+C:\Users\asus\Documents\Visual Studio 2015\Projects\ColasFIFO\ColasFIFO\obj\Debug\ColasFIFO.exe
+C:\Users\asus\Documents\Visual Studio 2015\Projects\ColasFIFO\ColasFIFO\obj\Debug\ColasFIFO.pdb
